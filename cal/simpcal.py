@@ -2,6 +2,8 @@ from _ast import Lambda
 from tkinter import *
 
 root = Tk()
+root.title("Image Insertion")
+root.iconbitmap('C:/calc.ico')
 
 #defining title of the project
 root.title("Calculator By Niraj")
